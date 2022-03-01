@@ -1,0 +1,3 @@
+javadoc -d ./JavaDoc -sourcepath ./src -subpackages si - Creating documentation
+javac -cp src/ src/si/feri/opj/joksovic/main/Zagonski.java - Compiling the shit
+java -cp ./src/  si.feri.opj.joksovic.main.Zagonski - Run the shit
